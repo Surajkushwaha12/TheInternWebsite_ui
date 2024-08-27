@@ -1,0 +1,36 @@
+modified
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   src/App.jsx
+#	new file:   src/assets/logo.png
+#	new file:   src/components/About.jsx
+#	new file:   src/components/ChoseUs.jsx
+#	new file:   src/components/Ellipse4.jpg
+#	new file:   src/components/Ellipse7.jpg
+#	modified:   src/components/Feedback.jsx
+#	new file:   src/components/Footer.jsx
+#	new file:   src/components/HeroSection.jsx
+#	modified:   src/components/Industry.jsx
+#	new file:   "src/components/Link \342\206\222 the-interns-logo-A3QpxOVw7XfxgN1M.png.png"
+#	new file:   src/components/Navbar.jsx
+#	new file:   src/components/Phoneimg.png
+#	new file:   src/components/Vector.png
+#	new file:   src/components/Vector1.png
+#	new file:   src/components/about1.jpg
+#	new file:   src/components/about2.jpg
+#	new file:   src/components/bgcircl.jpg
+#	new file:   src/components/bgcircle.jpg
+#	new file:   src/components/g.text
+#	new file:   src/components/herobgimage.jpg
+#	new file:   src/components/seg01.jpg
+#	new file:   src/components/seg02.jpg
+#	new file:   src/components/seg03.jpg
+#	new file:   src/components/seg04.jpg
+#	new file:   src/components/seg05.jpg
+#	modified:   tailwind.config.js
+#
